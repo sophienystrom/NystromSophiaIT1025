@@ -35,15 +35,35 @@ Hypervirsor is a computer software/hardware that runs virtual machines created b
 * Tri-C College Central:
 * Register for a student account.
 Use one of the search options such as "Search - Intern Central," take a screenshot of the listings (include your name in the upper right-hand corner in your screenshot,) name the file: CollegeCentral and upload to your lab folder.
+
+Snippet uploaded.
+
 * Bureau of Labor Statistics
 Go to: Bureau of Labor Statistics website and continue exploring careers in IT (or your area of interest.) You can search for "web developer" or "network" or "cyber" and see what jobs appear. Report your findings including job title, salary and projected growth. You can upload a screenshot if you want.
+
+The career that I chose to explore was a Software Developer. 
+Software developers create applications that run on computers or other technological devices. Most software developers work for computer systems firms, but some developers can freelance and create private softwares. Usually to become a developer one has to have the minimum of a bachelor's degree in computer science, with a lot of experience and skill working with computers themselves. Computer programming skills are basically the basis of the job and being fluent in multiple languages will aid in the career field. Currently, the job outlook for software developers is very high, 21% faster than average growth. As technology grows bigger and bigger, new and better programming skills are needed to keep up with the industry. This means software development may always be on the rise. The average salary for a developer is about $105,000 a year, with the lowest 10% earning $60,000 a year and the highest 10% earning around $160,000 a year. Similar occupations include computer research scientists, IT managers, and computer hardware engineers. 
+
 # Industry Certification
 * Explore a certification and report your findings. (CompTIA , Cisco , CISSP or any other certification)
+
+CISCO certifications push into very many dynamics of IT technologies. There are multiple certifications you can get depending on what you want your professional career to look like. For example, you can opt for the associate certification standards and gain the knowledge needed to boost a career as a network designer and professional or you can go for the highest architect certification and get a full round-a-bout of network designing (a true master of the art). I chose the associates CCNA certification course. In this course you get prepared for a career in IT and all you have to do is pass one exam that covers IT's fundamental principles. The certification goes over networking technologies, software development, job roles, Cyber Ops, cloud collaboration, security, and much much more. There are webinars, study groups, and training programs to aid in the way. If I were to get a quick certification to aid in my future in the IT field (on top of a degree) I would choose the CCNA certification since it is a nice add-on and is perfect for people who are new to the field and need a mild add-on to their computer knowledge. 
+
 # College Certificates
 * Explore the Tri-C certificates at: Tri-C IT Programs and report on a certificate of interest (short-term or post-degree.)
+
+While searching the different certificate opportunities Tri-c offered I realized how hard of a choice it was to choose between the various computer science type courses. Tri-C has a range of Cisco certifications, like the one I mentioned above, but although the CCNA is quite interesting I would not choose the certificate over a few others. THe first degree that caught my eye was the Information Technology- Programmin and Development Associate of Applied Business. This specific course gives one the experience they need to: Communicate and present skills, operate in a team environment, apply models and procedures to efficiate IT resources, apply programmind and website maintance knowledge to develop/test/qualify technological business systems, etc. Looking at the suggested sequence the degree goes over a range of topics in both business and IT, which in the future will work together to be efficient in a job. The whole degree itself is a total of 60 credit hours, and seems to be generally completed over the course of four semesters. Electives for degree are IT based and are very nice add ons to the already rigorous course to be learned. 
+
 * Explain what you need to do to become co-op "ready" and the benefits of pursuing a co-op or internship
+
+A cooperative education (or co-op) provides students with a high edge by helping them get hands-on experience in a career field of their choice. This will provide insight to that student's career path and future job opportunities. Tri-C's cooperative education experienes have their own eligibility requirements. To become co-op ready you must (basically) have gone through 12 hours of college coursework, be enrolled, and have a GPA over 2.75. Students must also complete and application of interest, go to an orientation process, and upload a resume. Cooperative education are beneficial since they provide academic credit by the means of a job experience. You will not only be receiving hands on knowledge in your career field of choice, therefore HIGLY expanding your knowledge and qualifications, but you will recieve credits towards your degree at the same time. 
+
 # Professional Membership
 * Pick one of the IT organizations like IEEE or ACM or a student club and report the purpose of the organization and why membership would be beneficial.
 
+The ACM IT organization (Association of Computer Machinery) brings together computer scientists, researchers, IT professionals, and educators around the world to address discreptancies and challenges in the field of IT and related paths. Membership in the career strengthens ones profession's collective voice due to strong leading and the organization recognizes technical excellence. Professional growth of memebers is strived for and many opportunities are provided for the long run in career development. 
+
 # Conclusion
 * Summary of your understanding from this week's lab
+
+During this lab I learned the different aspects and importances of software in computing, basics of python as a programming language, and the variety of careers related to IT that may be foresworn in my future. It was very interesting to learn about the introductions of python coding, and I am excited myself to continue that knowledge and further learn about the applications of python and how becoming fluent can progress my future. I especially like the career exploration part of this lab since I am usually a very unsure person about which career path I look to pursuing. It was interesting to see so many different certifications that could boost a resume if sought after, and I believe in my near future as I graduate high school that I will take advantage of the opportunity to plan to gain them. 
