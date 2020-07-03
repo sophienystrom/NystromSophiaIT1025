@@ -36,6 +36,8 @@ The image I attempted to create was the flower image from our tutorial video. My
 
 * Right-click on your svg image file, select "properties" and report the file size and what application it "opens with." What application might be more appropriate and why (click the "change" button for options)
 
+The size of my file is 138.8 KB and it opens as a PNG. I think that the PNG appliation file is the best option for my file, the plusses with compression beat the other application possibilities. That is all I truly have to say about the matter since I did write a paragraph about the positvities of PNG files close above. 
+
 # Conclusion
 * Summarize what you learned here
 
