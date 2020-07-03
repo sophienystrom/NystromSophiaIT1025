@@ -32,6 +32,8 @@ Color wise JPG files have about 16 million colors while PNG and GIF are limited 
 * Upload your logo image that you created from the Graphics Tasks
 * Explain your image design including how many "layers" were required
 
+First I would like to apologize for the fact that I just read the activity 2 directions and saw we were supposed to create a pizza logo. I didn't know the directions were in that document and automatically assumed that the video tutorial was what to be created. I would re-do the project but unfortunetly I have to go to work in twenty minutes and I will not be getting home until around 11 PM where I already have another assignment to do at the time. I am so sorry for this inconvenience, it will not happen again.
+
 The image I attempted to create was the flower image from our tutorial video. My image required 17 different layers, most of which were petals. To begin my image I created a simple circle and changed the color to a floral center. Then I used the pen tool to create a kite shape and then double clicked and evened out the corners to create a petal look. Then I copied and pasted the petals all around the circle center and changed the color to a light purple. I made the circle come to the front to make it look like a flower. Using the text tool I added my name in the center. Using the circle tool again I made one small and one big one and then shaped them into a leaf (kind of), I used the pencil tool to detail them. It did not turn out that great for a first time to be honest but I did try.
 
 * Right-click on your svg image file, select "properties" and report the file size and what application it "opens with." What application might be more appropriate and why (click the "change" button for options)
