@@ -73,9 +73,11 @@ RBAC or role-based access-control restricts access in a network based on roles t
 
 * Explain the interaction of ciphertext, a public key and a private key
 
+A public key maages identity and security in internet ommunications by using algorithms that protect identities and data from being accessed by unauthorized users (guards from cyber attack). Public keys use a string of random numbers for encryption that can only be deciphered by the associated private key. A private key is a decryption key used to decrypt private encrypted text for users to view. Ciphertext is the encrypted form of a text after a public key encrypts a file. So basically, public keys encrypt text to ciphertext and then a private key derypts that ciphertext to normal text. 
 
 * Explain why we need public key cryptography.
 
+Public key cryptography makes it very simple for authorization and access to encrypted files. For other versions of cryptography one has to give the description key to the recipient, but with a public key the reipient already HAS the private key they will use. Public key cryptography ensures confidentiality and privacy within communication. This type of cryptography can also verify identities. In the end it not only confirms the triad of cybersecurity but it is generally easier and more secure than some other forms of cryptography. 
 
 ## Cryptography
 * Type a message in the "Caesar Cipher Exploration box and turn the wheel to encrypt your message. Then explain the encryption here:
@@ -93,3 +95,4 @@ Brute-Force is a cryptoanalytic technique that tries every possible decryption k
 # Conclusion
 * Summarize how this lab was useful to you and what you learnt that really interested you!
 
+In this weeks lab I learned an absolute ton about cybersecurity and networking. Cybersecurity has always been a main interest of mine and it was very interesting to get an in depth understanding about how it works in different ways. I truly loved learning about cryptography, and the aspect of the lab where we explored encrypting messages was probably my favorite part. I really had no clue that there were so many different versions of network topology and how for some it is so easy for a network to fall. The introduction to LucidChart was also nice, although I will be honest it was not my favorite part of the lab. All in all I am really happy with what I learned and I'm excited to see what it on the agenda for next weeks lab!
