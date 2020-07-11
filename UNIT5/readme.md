@@ -82,9 +82,25 @@ Public key cryptography makes it very simple for authorization and access to enc
 ## Cryptography
 * Type a message in the "Caesar Cipher Exploration box and turn the wheel to encrypt your message. Then explain the encryption here:
 
+I typed: computer science is interesting
+encrypted message: jbtwbaly ziplujl pz pualyzlazapun
+basically, the encryption alters the original text so it is not readable or viewable to a unauthorized user. Encryption can add random letters and numbers and rewrite the message in a way where you can't understand what it says unless you have the key to unlock it. 
+
 * Type a message in the "Frequency Fingerprint Exploration" box and a) Explain the result. b) Would it be different for different languages?
 
+The message I typed was: never ever again will I work a Friday shift by myself.
+My results showed that I mostly used the letters E, R, A, and I and had a lower frequency with other letters in the sentence. 
+It would definitely be different in a different language. Languages around the world play with vowels and constanants in a way that is not the same as the English language. My message or "fingerprint" was very skewed, since it was the purpose of encryption relating to it would try to flatten that frequency. Languages have a differed frequency when it comes to letter usage. For example, if it were in Russian I would expect a heavy frequency of constanants while if it were in Arabic I would expect a number of vowels. 
+
 * What is a "Polyalphabetic cipher?" Type a message in the "Polyalphabetic Exploration" box as well as a shift word. Explain the result.
+
+A polyalphabetic cipher encrypts a message by using a shift word to find alphabetic placement (number in alphabet). Those numbers are repeated through the entire message and the letters are shifted depending on the number below it. To decrypt the message one has to subtract the shifts. A flatter frequency makes it harder to decrypt the message, a difference in letter frequency show that there is a leak in information. The longer the shift word the stronger the cipher
+
+The message I typed: Lucidchart is a cool website
+shift word used: hippopotamus 
+encryption: tdsysswusg di i leea mtvtvox
+
+I used a longer shift word so therefore my encryption has been shifted multiple times by the alphabetical numbers of the word hippopotamus. As I explained above the frequency of my encrypted message should not be very skewed, although in my example it sort of is. 
 
 # Brute Force
 * What is Brute-Force and how does it relate to Kerckhoffs's principle?
