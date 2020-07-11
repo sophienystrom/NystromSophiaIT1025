@@ -13,7 +13,7 @@ Create a new blank diagram (ignore message boxes to upgrade) and create a flowch
 
 * Share your experience using Lucidchart in a paragraph (3-4 lines)
 
-
+Using lucid chart for the first time was quite intersting. I have never seen or used the application before but it was nice to see the computer science programming application it had, amongst other things. I feel that lucid chart can be used not just for programming but also for the scientific process and the forming of hypothetical theories. In short, LucidChart is very easy to use and I enjoyed making the simple flowchart for our assignment!
 
 #Networking
 ##Intro to Networking
