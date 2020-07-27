@@ -51,12 +51,21 @@ Velocity relating to data is the amount of data that is constantly coming in tha
 
 * What types of technology have driven the increased need for big data?
 
-
+There are a number of technologies that have driven for the need of big data. As our chapter stated, many big grocery store chains (such as Walmart) process TONS of data from customer transactions throughout the day and are in need of the abilities of big data. To go further, banks also have experienced an incline in transactions and information which is causing them to also push for the need of big data. Even our government, local or federal, obtains bunches of information that can affect the lives of millions of people if not stored or treated correctly. Big data allows these businesses and industries to make valid decisions through analysis of data. As big data is more apparent so is the understanding of the data itself. step by step. 
 
 # Structured Query Language (SQL)
 * Explain RDBMS and how it relates to SQL and the purpose of SQL
+
+RDBMS, or the "Relational Database Management System", is the foundation of base of SQL and other database systems. Very basically RDBMS is a type of program that lets a user create and administer a relational type database. This is where our "customer" and "orders" table example fits it, that is an RDBMS relational database table. SQL is the language used to actually access and maintain RDBMS. SQL (structured query language) is a type of programming language that connects/communicates stored data in a relational database. SQL is super easy to write and read which is why it is the ideal syntax for relational database systems, that is the purpose. 
+
 * Pick two related tables from the diagram provided in the "module - SQL" and explain the relationship between them a) which is the primary key? b) which is the foreign key?
+
+The two tables I decided to connect from the diagram are the "Orders" and "Shippers" diagram. Basically speaking, the orders table gives all information associated with an order and the shippers table gives all information about the company sending that order. The primary key of the orders table is the OrderID, which is unique to every order. The primary key of the shippers table is the ShipperID, which is unique to every company listed whom is associated with sending product. The foreign key in the orders table is the shipperID, since it is a sub to the orders table primary key and is the primary key for the shippers table. They are connected in a way so when you look at the orders table you are able to find more information about the specific shipping company which will be dealing with an order and vice versa if you are looking at a shipper and want to know which orders they are a part of all you need to do is look at their ID on the orders table. 
+
 * Using W3Schools, try out a a) select statement a) where clause and upload screenshots of the results.
+
+My SQL coding attemps have been uploaded :)
+
 * Explain how SQL injections are a security threat and what can be done to reduce the issue.
 # Ethical and Legal Implications of Information Systems
 ## Code of Ethics
